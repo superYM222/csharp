@@ -1,0 +1,15 @@
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/bin/Debug/net7.0/Question2
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/bin/Debug/net7.0/Question2.deps.json
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/bin/Debug/net7.0/Question2.runtimeconfig.json
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/bin/Debug/net7.0/Question2.dll
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/bin/Debug/net7.0/Question2.pdb
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.csproj.AssemblyReference.cache
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.AssemblyInfoInputs.cache
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.AssemblyInfo.cs
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.csproj.CoreCompileInputs.cache
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.dll
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/refint/Question2.dll
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.pdb
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/Question2.genruntimeconfig.cache
+/Users/yoonmin/Desktop/Assignment/Question2/Question2/obj/Debug/net7.0/ref/Question2.dll
