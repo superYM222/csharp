@@ -1,2 +1,5 @@
 # csharp
-c# 
+c# for assignments 
+
+# simple project
+
